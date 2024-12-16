@@ -1,3 +1,3 @@
 # LB_324
 
-What about that
+Repository containing tested, reviewed and rated conten about the Module 324
